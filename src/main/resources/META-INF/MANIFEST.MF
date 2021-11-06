@@ -1,0 +1,4 @@
+Created-By: DiegoCV
+Foo: mycompany
+Main-Class: com.mycompany.parchador.Main
+ClassBundle-Version: 0.0.1
